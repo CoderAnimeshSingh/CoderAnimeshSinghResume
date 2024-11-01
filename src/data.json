@@ -1,28 +1,28 @@
 {
   "meta": {
-    "name": "Emily Johnson",
-    "title": "Software Engineer",
+    "name": "Animesh Singh",
+    "title": "Full-stack Developer",
     "website": "https://emjo.biz",
-    "location": "Seattle, WA",
-    "email": "emily.johnson@example.com",
-    "phone": "+1 (555) 987-6543",
-    "bio": "Dedicated software engineer with a strong background in building robust and scalable applications. Skilled in Java, Python, and JavaScript technologies. Experienced with Meta, Amazon, and Google."
+    "location": "Delhi, IND",
+    "email": "ani.yug272@gmail.com",
+    "phone": "+91-9693856529",
+    "bio": "Dedicated Full-stack Developer with a strong background in building robust and scalable applications. Skilled in Java, Python, and JavaScript technologies. Experienced with Meta, Amazon, and Google."
   },
   "education": [
     {
-      "institution": "University of Washington",
-      "location": "Seattle, WA",
+      "institution": "Ambedkar institute of technology",
+      "location": "Delhi, IND",
       "area": "Computer Science",
-      "degreeType": "Bachelor of Science",
-      "endDate": "2015"
+      "degreeType": "Master of Computer Application",
+      "endDate": "2020"
     }
   ],
   "work": [
     {
-      "company": "Google",
+      "company": "Microsoft",
       "position": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "startDate": "2020",
+      "location": "Noida, IND",
+      "startDate": "2024",
       "endDate": "Present",
       "highlights": [
         "Developing machine learning algorithms for search optimization and personalized content recommendations",
@@ -34,9 +34,9 @@
     {
       "company": "Amazon",
       "position": "Software Development Engineer",
-      "location": "Seattle, WA",
-      "startDate": "2017",
-      "endDate": "2020",
+      "location": "Gurugram, IND",
+      "startDate": "2022",
+      "endDate": "2024",
       "highlights": [
         "Designed and implemented microservices architecture to improve system scalability",
         "Collaborated with product teams to define technical requirements and priorities for new feature development",
@@ -49,8 +49,8 @@
       "company": "Meta",
       "position": "Software Engineer",
       "location": "Menlo Park, CA",
-      "startDate": "2015",
-      "endDate": "2017",
+      "startDate": "2020",
+      "endDate": "2022",
       "highlights": [
         "Developed backend systems for social media platform",
         "Optimized database performance resulting in 20% faster response times",
@@ -63,7 +63,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Java", "Python", "JavaScript"]
+      "keywords": ["C++", Java", "Python", "JavaScript"]
     },
     {
       "name": "Tools & Technologies",
@@ -74,6 +74,7 @@
         "MySQL",
         "MongoDB",
         "PostgreSQL"
+        "Linux"
       ]
     }
   ],
